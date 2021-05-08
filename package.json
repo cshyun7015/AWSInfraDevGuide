@@ -1,7 +1,7 @@
 {
-  "name": "aws-exercise-a",
+  "name": "AWSInfraDevGuide ElasticBeanStalk",
   "version": "1.0.0",
-  "description": "AWS exercise project A",
+  "description": "AWSInfraDevGuide ElasticBeanStalk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deopard/aws-exercise-a.git"
+    "url": "git+https://github.com/cshyun7015/AWSInfraDevGuide.git"
   },
   "author": "Tom Kim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deopard/aws-exercise-a/issues"
+    "url": "https://github.com/cshyun7015/AWSInfraDevGuide/issues"
   },
-  "homepage": "https://github.com/deopard/aws-exercise-a#readme",
+  "homepage": "https://github.com/cshyun7015/AWSInfraDevGuide#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
